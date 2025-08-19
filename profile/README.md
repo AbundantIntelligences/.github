@@ -2,11 +2,13 @@
 Building culturally-grounded AI systems that support Indigenous Sovereignty and Ways of Knowing
 
 
-## Research Axes 
+## Research Areas
 Exploring how Indigenous Knowledge practices can expand mainstream AI
-1. Integration
-2. Imaginaries
-3. Intelligences
+1. Language
+2. Storytelling
+3. Environmental Stewardship
+4. Socio-neuro AI
+5. Multi-agent systems
 
 
 Find out more at [Abundant-Intelligences.net](https://abundant-intelligences.net/) 
