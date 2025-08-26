@@ -14,4 +14,4 @@ Exploring how Indigenous Knowledge practices can expand mainstream AI
 Find out more at [Abundant-Intelligences.net](https://abundant-intelligences.net/) 
 
 
-To Collaborate, reach us at [abint-coordinator@concordia.ca](mailto:abint-coordinator@concordia.ca)
+To Collaborate, reach us at [abint-coordinator@concordia.ca](mailto:abint-datastorytelling@concordia.ca)
